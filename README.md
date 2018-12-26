@@ -2,11 +2,11 @@ To run the code:
 
 1. Train the autoencoder and classifiers. Run the code.py file in python3.
 
-    $ python3 code.py
+   ` $ python3 code.py`
 
 2. Test using file test.py.
 
-    $ python3 test.py
+    `$ python3 test.py`
 
 Other than the 2 code files, 4 text input files are also included:
 
@@ -48,10 +48,10 @@ Description of other files/directories:
 
 	 	3. In terminal, run the C file:
 
-	 		- $ gcc -c Input_script.c
+	 		 `$ gcc -c Input_script.c`
 
-	 		- $ gcc Input_script.o -o Input_script
+	 		 `$ gcc Input_script.o -o Input_script`
 
-	 		- $ gcc ./Input_script
+	 		 `$ gcc ./Input_script`
 
 	 	4. Run the file 4 times for each of the disease, to generate 4 text input files.
